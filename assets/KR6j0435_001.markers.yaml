@@ -22,7 +22,6 @@ markers:
   - {type: punctuation, offset: 68, content: ，, id: KR6j0435_T_001-bkkpn5}
   - {type: punctuation, offset: 75, content: ，, id: KR6j0435_T_001-bkkpn6}
   - {type: line-break, offset: 77, content: '', id: KR6j0435_T_001-0038c21, ed: T, 'n': 0038c21}
-  - {type: substitution, offset: 80, original: 迴, replacement: 回, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3886}}
   - {type: punctuation, offset: 83, content: 。, id: KR6j0435_T_001-bkkpn7}
   - {type: punctuation, offset: 91, content: 。, id: KR6j0435_T_001-bkkpn8}
   - {type: punctuation, offset: 94, content: ：, id: KR6j0435_T_001-bkkpn9}
@@ -224,7 +223,6 @@ markers:
   - {type: page-break, offset: 459, content: '', id: KR6j0435_T_001-0039b, 'n': 0039b, ed: T, source_xml_id: T21.1208.0039b}
   - {type: line-break, offset: 459, content: '', id: KR6j0435_T_001-0039b01, ed: T, 'n': 0039b01}
   - {type: xml-element, offset: 459, content: '', id: pT21p0039b0101, name: p, role: open, attrs: {'xml:id': pT21p0039b0101}}
-  - {type: substitution, offset: 462, original: 恒, replacement: 恆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4383}}
   - {type: punctuation, offset: 471, content: ，, id: KR6j0435_T_001-bkkpn116}
   - {type: line-break, offset: 476, content: '', id: KR6j0435_T_001-0039b02, ed: T, 'n': 0039b02}
   - {type: punctuation, offset: 480, content: ，, id: KR6j0435_T_001-bkkpn117}
@@ -296,4 +294,4 @@ markers:
   - {type: xml-element, offset: 671, content: '', id: pT21p0039b1601_end, name: p, role: close, attrs: {'xml:id': pT21p0039b1601}}
   - {type: line-break, offset: 671, content: '', id: KR6j0435_T_001-0039b18, ed: T, 'n': 0039b18}
   back: []
-hash: sha256:9f488d2130d4d0f45a9bfe01085e5b2ab0eaaa332be00fdc5d11f5c6e6e97daa
+hash: sha256:25f99ac5d1d2104e708ec0f5f36395f073c27643176918da40bfba471158b778

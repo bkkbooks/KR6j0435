@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0435_000.yaml, hash: 'sha256:448244a73d7735ca51b19c55525fcee64083500f684cbadff96bc23881a7ee07'}
-  - {seq: 1, filename: KR6j0435_001.yaml, hash: 'sha256:8c8a9b2020e5356084ce34a7e2a8c5e58e298a80b5f01bc4b5d7f101cedc3a0f'}
+  - {seq: 1, filename: KR6j0435_001.yaml, hash: 'sha256:a7caf93d681021a41c819729254cfdf746706681ecb235a1f50642804b25f023'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0435_001.markers.yaml, hash: 'sha256:9f488d2130d4d0f45a9bfe01085e5b2ab0eaaa332be00fdc5d11f5c6e6e97daa'}
+  - {seq: 0, role: markers, filename: assets/KR6j0435_000.markers.yaml, hash: 'sha256:a89b88436eaea0df2db7a5873d7971ffe49f72b6152ebb5ec98fea54fb759174'}
+  - {seq: 1, role: markers, filename: assets/KR6j0435_001.markers.yaml, hash: 'sha256:25f99ac5d1d2104e708ec0f5f36395f073c27643176918da40bfba471158b778'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 俱力迦羅龍王儀軌
   type: juan
   level: 1
-hash: sha256:36b99b09130690451896747401d08cc5b2fb368604ab49151c8e851b023b3f9d
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:fc3a1ac23df8979aaefd059deecb7f34cf981b61b063561fe345f9dce11c6c2a
