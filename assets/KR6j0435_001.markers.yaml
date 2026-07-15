@@ -22,7 +22,9 @@ markers:
   - {type: punctuation, offset: 68, content: ，, id: KR6j0435_T_001-bkkpn5}
   - {type: punctuation, offset: 75, content: ，, id: KR6j0435_T_001-bkkpn6}
   - {type: line-break, offset: 77, content: '', id: KR6j0435_T_001-0038c21, ed: T, 'n': 0038c21}
+  - {type: substitution, offset: 80, original: 迴, replacement: 回, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20169}}
   - {type: punctuation, offset: 83, content: 。, id: KR6j0435_T_001-bkkpn7}
+  - {type: substitution, offset: 86, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   - {type: punctuation, offset: 91, content: 。, id: KR6j0435_T_001-bkkpn8}
   - {type: punctuation, offset: 94, content: ：, id: KR6j0435_T_001-bkkpn9}
   - {type: xml-element, offset: 94, content: '', id: pT21p0038c1901_end, name: p, role: close, attrs: {'xml:id': pT21p0038c1901}}
@@ -223,6 +225,7 @@ markers:
   - {type: page-break, offset: 459, content: '', id: KR6j0435_T_001-0039b, 'n': 0039b, ed: T, source_xml_id: T21.1208.0039b}
   - {type: line-break, offset: 459, content: '', id: KR6j0435_T_001-0039b01, ed: T, 'n': 0039b01}
   - {type: xml-element, offset: 459, content: '', id: pT21p0039b0101, name: p, role: open, attrs: {'xml:id': pT21p0039b0101}}
+  - {type: substitution, offset: 462, original: 恒, replacement: 恆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20663}}
   - {type: punctuation, offset: 471, content: ，, id: KR6j0435_T_001-bkkpn116}
   - {type: line-break, offset: 476, content: '', id: KR6j0435_T_001-0039b02, ed: T, 'n': 0039b02}
   - {type: punctuation, offset: 480, content: ，, id: KR6j0435_T_001-bkkpn117}
@@ -294,4 +297,4 @@ markers:
   - {type: xml-element, offset: 671, content: '', id: pT21p0039b1601_end, name: p, role: close, attrs: {'xml:id': pT21p0039b1601}}
   - {type: line-break, offset: 671, content: '', id: KR6j0435_T_001-0039b18, ed: T, 'n': 0039b18}
   back: []
-hash: sha256:25f99ac5d1d2104e708ec0f5f36395f073c27643176918da40bfba471158b778
+hash: sha256:44ab18dd23a64821ff7c245a92ead95d46a103ae40c21c9f0cb2cfdc1aa90cb7
